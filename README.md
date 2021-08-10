@@ -1,5 +1,5 @@
 # PyQt Youtube DL
-Provide an easy and intuitive interface for youtube-dl using PyQt6.
+PyQt Youtube DL provides an easy and intuitive interface for youtube-dl using PyQt6.
 
 ![program-screenshot](./program-screenshot.png)
 

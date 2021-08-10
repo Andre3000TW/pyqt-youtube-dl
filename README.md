@@ -6,8 +6,9 @@ PyQt Youtube DL provides an easy and intuitive interface for youtube-dl using Py
 # How to Pack Code into Executable file
 1. Download Pyinstaller
 2. Download this project
-3. Use command `pyinstaller pyqt-youtube-dl.spec` to generate a executable file
-4. The executable file will appear at ./dist/pyqt-ydl.exe
+3. Change cwd to the project directory
+4. Use command `pyinstaller pyqt-youtube-dl.spec` to generate a executable file
+5. The executable file will appear at ./dist/pyqt-ydl.exe
 
 # Test Environment
 + Windows 10

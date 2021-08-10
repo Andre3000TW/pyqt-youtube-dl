@@ -1,5 +1,6 @@
 # PyQt Youtube DL
 PyQt Youtube DL provides an easy and intuitive interface for youtube-dl using PyQt6.
+[Click here to download](https://github.com/Andre3000TW/pyqt-youtube-dl/releases/download/1.0/pyqt-ydl.exe)
 
 ![program-screenshot](./program-screenshot.png)
 
